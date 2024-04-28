@@ -1,5 +1,5 @@
 Link to Rtabmap.db
 
 ```
-https://1drv.ms/u/s!ApgTzjZmNMSPgfIkRmrifQ5HERHbvg?e=fTqFMw
+https://drive.google.com/file/d/1bgaAxKdGuTPwggo2wh0-SCKhFWTkcd66/view?usp=sharing
 ```
